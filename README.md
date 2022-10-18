@@ -28,3 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Add Bootstrap - Jquery - Popper.js 
  npm install bootstrap jquery popper.js --save
+
+## Doc
+ https://angular.io/guide/inputs-outputs
