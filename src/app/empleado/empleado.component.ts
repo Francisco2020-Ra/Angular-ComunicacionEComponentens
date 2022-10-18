@@ -25,4 +25,6 @@ export class EmpleadoComponent {
   cuadroApellido: string = ""
   cuadroCargo: string = "";
   cuadroSalario: number = 0;
+
+  
 }
